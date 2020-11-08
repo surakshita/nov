@@ -1,0 +1,4 @@
+public enum Institute
+{
+XWORKZ,JSPIDER, ABC,QSPIDER,PENTAGON
+}
