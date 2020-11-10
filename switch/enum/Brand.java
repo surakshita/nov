@@ -1,0 +1,4 @@
+public enum Brand
+{
+SONY,APPLE,SAMSUNG,NOISE,DELL,MICROSOFT
+}
