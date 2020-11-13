@@ -5,6 +5,6 @@ public static void main(String[] args)
 System.out.println("invoking main");
 String name="Emily";
 Eight.details(name);
-Eight.details(day,21);
+Eight.details(name,21);
 }
 }
